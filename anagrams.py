@@ -10,3 +10,5 @@ for i in words:
         dict[sortedWord] = [i]
 
 print(list(dict.values()))
+
+
